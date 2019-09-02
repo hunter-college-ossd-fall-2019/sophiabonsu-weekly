@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+I am currrently an undergraduate Computer Science student 
 
-### More Information
+### My interest include :
+* open source software development 
+* web development
+*
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
