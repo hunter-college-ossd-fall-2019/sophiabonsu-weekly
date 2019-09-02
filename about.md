@@ -1,7 +1,7 @@
 ---
 Sophia's Blog #: 1
----
-title: About Me
+----
+Title: About Me
 ---
 
 I am currrently an undergraduate Computer Science student 
