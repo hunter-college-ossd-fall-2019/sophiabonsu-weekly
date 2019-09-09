@@ -1,7 +1,7 @@
 ---
-Sophia's Blog #: 1
-----
-Title: About Me
+layout: page
+title: About
+permalink: /about/
 ---
 
 I am currrently an undergraduate Computer Science student 
