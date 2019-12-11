@@ -34,3 +34,4 @@ Replace the first row below with your contribution.
 | 12 |[Wikipedia](https://en.wikipedia.org/wiki/Free_and_open-source_software)| Article | Added Link for  humanitarianFOSS|
 | 14 |[osmlab](https://github.com/osmlab/name-suggestion-index/issues/3366) | openstreetmap names_suggestion_index | Added Clarion Hotel|
 | 14 |[Blog](https://github.com/hunter-college-ossd-fall-2019/giocare-weekly/pull/5)| blog contribution |spelling correction |
+| 14 |[Wikidata](https://www.wikidata.org/wiki/Special:Contributions/BillyPad)|Created new Entry |Clarion Hotel|
